@@ -13,7 +13,7 @@ echo "Is Student: " . ($is_student ? 'Yes' : 'No') . "<br>";
 echo "Grades: " . implode(", ", $grades) . "<br>";
 
 
-// LETS some what i learned
+// LETS sum up what i learned
 
 
 // implode() write the whole array in line and give separator
